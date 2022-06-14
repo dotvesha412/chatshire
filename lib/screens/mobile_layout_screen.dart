@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:chatshire/colors.dart';
-//import 'package:chatshire/widgets/contacts_list.dart';
+import 'package:chatshire/widgets/contacts_list.dart';
 
 class MobileLayoutScreen extends StatelessWidget {
   const MobileLayoutScreen({Key? key}) : super(key: key);
@@ -55,8 +55,7 @@ class MobileLayoutScreen extends StatelessWidget {
             ],
           ),
         ),
-        body: Text('whatsapp'),
-        /*const ContactsList(),
+        body: const ContactsList(),
         floatingActionButton: FloatingActionButton(
           onPressed: () {},
           backgroundColor: tabColor,
@@ -64,7 +63,7 @@ class MobileLayoutScreen extends StatelessWidget {
             Icons.comment,
             color: Colors.white,
           ),
-        ),*/
+        ),
       ),
     );
   }
