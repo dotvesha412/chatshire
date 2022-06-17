@@ -2,8 +2,8 @@ import 'dart:ui';
 
 const backgroundColor = Color.fromARGB(255, 139, 157, 228);
 const textColor = Color.fromRGBO(241, 241, 242, 1);
-const appBarColor = Color.fromARGB(35, 60, 81, 151);
-const webAppBarColor = Color.fromARGB(35, 60, 81, 151);
+const appBarColor = Color.fromARGB(34, 32, 42, 75);
+const webAppBarColor = Color.fromARGB(34, 32, 42, 75);
 const messageColor = Color.fromARGB(255, 227, 236, 143);
 const senderMessageColor = Color.fromRGBO(37, 45, 49, 1);
 const tabColor = Color.fromARGB(255, 227, 236, 143);
