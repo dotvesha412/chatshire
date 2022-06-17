@@ -81,19 +81,11 @@ const messages = [
     "time": "11:01 am"
   },
   {"isMe": true, "text": "Obviously, say", "time": "11:03 am"},
+  {"isMe": false, "text": "bing bing ^^", "time": "11:04 am"},
+  {"isMe": true, "text": " Sure?", "time": "11:05 am"},
   {
     "isMe": false,
-    "text": "haha I wanted you to check out my new channel ^^",
-    "time": "11:04 am"
-  },
-  {
-    "isMe": true,
-    "text": " Sure, what is the channel name?",
-    "time": "11:05 am"
-  },
-  {
-    "isMe": false,
-    "text": "Tvesha",
+    "text": "Time is 4:00pm. right?",
     "time": "11:06 am",
   },
   {
@@ -101,22 +93,22 @@ const messages = [
     "text": "Looks great to me!",
     "time": "11:15 am",
   },
-  {"isMe": false, "text": "Thanks bro!", "time": "11:17 am"},
-  {"isMe": false, "text": "Did you subscribe?", "time": "11:16 am"},
-  {"isMe": true, "text": "Yes, surely bro!", "time": "11:17 am"},
+  {"isMe": false, "text": "Thanks!", "time": "11:17 am"},
+  {"isMe": false, "text": "You are going right?", "time": "11:16 am"},
+  {"isMe": true, "text": "Yes, surely!", "time": "11:17 am"},
   {
     "isMe": false,
-    "text": "Cool, did you like the content?",
+    "text": "Cool",
     "time": "11:18 am",
   },
   {
     "isMe": true,
-    "text": "I loved it?",
+    "text": "Okay",
     "time": "11:19 am",
   },
   {
     "isMe": false,
-    "text": "OMG! Woah! Thanks!",
+    "text": ":)!",
     "time": "11:20 am",
   },
 ];
